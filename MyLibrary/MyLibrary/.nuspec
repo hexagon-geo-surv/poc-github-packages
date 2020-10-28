@@ -3,7 +3,7 @@
     <metadata>
         <id>MyLibrary</id>
         <version>1.0.0</version>
-        <description></description>
+        <description>Simple PoC to test GitHub Packages</description>
         <authors>stefan.hartmann@leica-geosystems.com</authors>
         <repository type="git" url="https://github.com/hexagon-geo-surv/poc-github-packages" />
     </metadata>
